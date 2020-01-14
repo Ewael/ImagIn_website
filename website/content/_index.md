@@ -23,7 +23,7 @@ about:
     text: '<p>ImagIn is a free and open-source software designed to be used both by beginners and intermidiate photographers. The purpose of the software is to combine both calibration and retouch tools in a single place. This project was made by four second year students of EPITA</p>'
 
 download:
-    rename: "Link"
+    rename: "Download"
     header: "Download ImagIn"
     text: '<p>You can download ImagIn here for free:</p><a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit Download Page</a>'
 
