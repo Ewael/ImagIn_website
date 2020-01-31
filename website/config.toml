@@ -1,9 +1,0 @@
-baseURL = "http://example.com/"
-languageCode = "en-us"
-title = "SilverGrain - ImagIn"
-theme= "grayscale2_0"
-
-[params]
-    # Provide some metadata for search and indexing services
-    description = "ImagIn - Open-source software for image processing"
-    author = "SilverGrain"
