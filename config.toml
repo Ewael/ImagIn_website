@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://turodoras.github.io/ImagIn_website/"
 languageCode = "en-us"
 title = "SilverGrain - ImagIn"
 theme= "grayscale2_0"
