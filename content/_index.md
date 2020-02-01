@@ -5,8 +5,7 @@ copyright: "Made as part of a school project at EPITA, Paris, France."
 #mapsapikey: xxx
 
 socialhandles:
-    twitter: "stream_running"
-    github: "runningstream"
+    github: "Alexis974/ImagIn"
 
 #menu:
 #    -
@@ -29,12 +28,10 @@ download:
     rename: "Download"
     header: "Download ImagIn"
     text: '<p>You can download ImagIn here for free:</p>
-    <a href="http://startbootstrap.com/template-overviews/grayscale/"
-    class="btn btn-default btn-lg">Visit Download Page</a>'
+    <a href="https://github.com/Alexis974/ImagIn">Visit Download Page</a>'
 
 contact:
     header: "Contact SilverGrain team"
     text: '<p>Feel free to leave us a feedback on ImagIn here:
-    <a href="http://startbootstrap.com/template-overviews/grayscale/">
-    Grayscale template overview page</a></p>'
+    <a href="https://github.com/Alexis974/ImagIn">Github page</a></p>'
 ---
