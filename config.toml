@@ -2,6 +2,7 @@ baseURL = "https://turodoras.github.io/ImagIn_website/"
 languageCode = "en-us"
 title = "SilverGrain - ImagIn"
 theme= "grayscale2_0"
+publishDir= "Turodoras.github.io"
 
 [params]
     # Provide some metadata for search and indexing services
